@@ -1,0 +1,5 @@
+git init .  -> cria um repo git na pasta atual
+git status  -> mostra o status do trabalho
+git commit -m "msg" -> faz o commit do que estava pendente de ser comitado
+git add nome_arquivo -> adiciona um arquivo para ser comitado
+rm -rf -> remove de forma recursiva e forçada todos os diretórios

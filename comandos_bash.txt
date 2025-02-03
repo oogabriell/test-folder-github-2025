@@ -1,4 +1,0 @@
-ls -> lista arquivos
-cd -> move entre diretórios
-pwd - > mostra diretório de trabalho
-cat -> read the content of an file
